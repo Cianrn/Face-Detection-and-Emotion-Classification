@@ -16,3 +16,8 @@ The model is run in real-time using webcam images.
 - [x] numpy
 
 Model training is done within `emotion_model.py` and running the models on either webcam or for single images is done in `main_emotion_detection`
+
+## Test Images
+<p align="center">
+  <img src="output/emotions_detected1.png" />
+</p>

@@ -19,5 +19,5 @@ Model training is done within `emotion_model.py` and running the models on eithe
 
 ## Test Images
 <p align="center">
-  <img src="output/emotions_detected1.png" />
+  <img src="output/me_emotions_detected.jpg" width=500 height=300/>
 </p>
